@@ -1,6 +1,6 @@
 # Seg2Entry for Craft
 
-Simple Craft plugin which grabs the entries for each segment.
+Simple Craft plugin which grabs the entries for each segment. The plugin will only make calls to the DB once; so use as much as you want with out counting queries!
 
 ## Usage
 
